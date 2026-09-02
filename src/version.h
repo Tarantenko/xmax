@@ -11,15 +11,15 @@
 #define APP_ID        "xtool"
 #define APP_NAME      "xTool"
 #define APP_DESC      "eXpert Tool"
-#define APP_VERSION   "6.26.0"
+#define APP_VERSION   "0.2.1"
 #define APP_DOMAIN    "xtool.com"
 #define APP_SITE      "www.xtool.com"
 #define APP_COPYRIGHT "Copyright (C) 2016-2026 xtool.com"
 #define APP_KIND      "xtool"
 
-#define APP_VER_MAJOR  6
-#define APP_VER_MINOR  26
-#define APP_VER_PATCH  0
+#define APP_VER_MAJOR  0
+#define APP_VER_MINOR  2
+#define APP_VER_PATCH  1
 
 #ifdef _MSC_VER
 #   if (_MSC_VER >= 1950)
